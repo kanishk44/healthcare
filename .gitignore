@@ -1,7 +1,6 @@
 # Healthcare Management System
 
 node_modules
-.env
 .vscode
 backend/logs
 frontend/logs
